@@ -12,3 +12,10 @@ I used the base Pix2Pix GAN model for image colourisation. And as stated by the 
 
 Example Video:- 
 
+
+
+
+https://user-images.githubusercontent.com/88615645/236466797-2af4dee4-74a6-41bc-a31e-53a6d10b06d8.mp4
+
+
+
